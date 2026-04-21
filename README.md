@@ -1,2 +1,37 @@
-# yamone-zin.github.io
-PhD student in Computer Science at University of Tsukuba working on metaprogramming, type systems, and reproducibility in large language model inference.
+# Ya Mone Zin
+
+PhD Student  
+Computer Science  
+University of Tsukuba
+
+---
+
+## Research Interests
+
+- Programming Languages
+- Metaprogramming
+- Type Systems
+- Large Language Models
+- Reproducibility in AI
+
+---
+
+## Publication
+
+**MAYUZIN: Runtime Generative and Analytical Metaprogramming**  
+IPSJ Transactions on Programming, 2025
+
+---
+
+## Projects
+
+- Mayuzin language implementation
+- LLM inference reproducibility analysis (ongoing)
+- OCaml metaprogramming systems
+
+---
+
+## Contact
+
+Email: your_tsukuba_email_here  
+GitHub: https://github.com/yamone-zin
