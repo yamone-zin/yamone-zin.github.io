@@ -33,5 +33,5 @@ IPSJ Transactions on Programming, 2025
 
 ## Contact
 
-Email: your_tsukuba_email_here  
+Email: ym.zin@cvlab.cs.tsukuba.ac.jp 
 GitHub: https://github.com/yamone-zin
